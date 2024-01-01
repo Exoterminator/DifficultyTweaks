@@ -11,7 +11,7 @@ import com.exoterminator.spigot.listeners.DamageListener;
 import com.exoterminator.spigot.listeners.HungerListener;
 import com.exoterminator.spigot.listeners.MobListener;
 
-public class PerPlayerDifficulty extends JavaPlugin {
+public class difficultytweaks extends JavaPlugin {
 
 	private DifficultyManager difficultyManager = new DifficultyManager(this);
 	private ConfigManager configManager = new ConfigManager(this, difficultyManager);
