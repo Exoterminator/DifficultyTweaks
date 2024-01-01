@@ -4,7 +4,7 @@ import java.util.logging.Logger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /*
- * diff_tweaks java plugin
+ * difficultytweaks java plugin
  */
 public class Plugin extends JavaPlugin
 {
