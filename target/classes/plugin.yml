@@ -1,0 +1,4 @@
+name: diff_tweaks
+main: com.exoterminator.diff_tweaks.Plugin
+version: 1.0.0
+api-version: 1.15
